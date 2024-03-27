@@ -1,2 +1,2 @@
 # data-science-portfolio
-Alejandros Rogel Garcia projects
+Alejandro Rogel Garcia's projects
